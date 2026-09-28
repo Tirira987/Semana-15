@@ -60,7 +60,9 @@ restaurante_app/
 │   └── main_view.py
 │
 ├── main.py
-└── README.md```
+└── README.md
+```
+
 Ejecución
 
 Para ejecutar la aplicación se debe abrir una terminal dentro de la carpeta restaurante_app y ejecutar:
