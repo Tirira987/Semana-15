@@ -19,7 +19,7 @@ Para registrar una venta se utiliza un botón mediante command= y un callback, e
 Las ventas registradas se almacenan en el archivo ventas.json, permitiendo conservar la información cuando la aplicación se cierra y vuelve a ejecutarse.
 
 Estructura del proyecto
-restaurante_app/
+```restaurante_app/
 │
 ├── assets/
 │   ├── icons/
@@ -59,7 +59,7 @@ restaurante_app/
 │   └── main_view.py
 │
 ├── main.py
-└── README.md
+└── README.md```
 Ejecución
 
 Para ejecutar la aplicación se debe abrir una terminal dentro de la carpeta restaurante_app y ejecutar:
