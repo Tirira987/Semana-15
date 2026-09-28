@@ -16,6 +16,7 @@ Las ventas registradas se almacenan en el archivo ventas.json, permitiendo conse
 
 Estructura del proyecto
 
+```
 restaurante_app/
 │
 ├── assets/
@@ -57,6 +58,7 @@ restaurante_app/
 │
 ├── main.py
 └── README.md
+```
 Ejecución
 
 Para ejecutar la aplicación se debe abrir una terminal dentro de la carpeta restaurante_app y ejecutar:
